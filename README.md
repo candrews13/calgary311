@@ -1,5 +1,5 @@
 # calgary311
-
+Contains information licensed under the Open Government Licence – City of Calgary.
 Data Dictionary
 
 311 Service Requests
